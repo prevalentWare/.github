@@ -1,4 +1,4 @@
-![logo](https://www.prevalentware.com/wp-content/uploads/2024/07/logo-prevalentware.png)
+![logo](https://www.prevalentware.com/_next/image?url=%2Flogo-vertical.png&w=384&q=75&dpl=dpl_4RmtZri2ZZgxUXRLcYjtp3jMKE9H)
 
 ## About Us
 
